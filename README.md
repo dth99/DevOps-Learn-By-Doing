@@ -103,7 +103,6 @@ A curated, community-driven collection of **free DevOps labs, challenges, and en
 ## 🌿 Git
 
 * [Learn Git Branching](https://learngitbranching.js.org/) – Interactive visual Git tutorial for mastering branching concepts
-* [Oh My Git!](https://ohmygit.org/) - visualizes the internal structures of Git repositories in realtime
 
 ---
 
