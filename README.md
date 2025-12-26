@@ -27,6 +27,7 @@ A curated, community-driven collection of **free DevOps labs, challenges, and en
 
 * [Linux Upskill Challenge](https://linuxupskillchallenge.org/) – Learn the skills required to sysadmin a remote Linux server from the command line
 * [OverTheWire](https://overthewire.org/wargames/) – Practice security concepts in the form of fun-filled games
+* [Linux Survival](https://linuxsurvival.com/) - beginner friendly Linux tutorial that teaches the essential commands needed to handle everyday tasks
 
 ---
 
