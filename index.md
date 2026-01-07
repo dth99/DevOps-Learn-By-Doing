@@ -80,6 +80,7 @@ A curated, community-driven collection of **free DevOps labs, challenges, and en
 * [Killercoda](https://killercoda.com/) - Learn DevOps Linux Kubernetes CKS CKA CKAD Git Linux Programming.
 * [AZ-104 Microsoft Labs](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/) – Practice labs for Azure Administrator certification
 * [DevOps Daily](https://devops-daily.com/exercises) - Master DevOps skills through hands-on practice with real-world scenarios
+* [Devops Guide](https://devopsguide.tech/labs) - Practice DevOps skills with interactive lab environments.
 ---
 
 ## 🔐 Security
