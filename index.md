@@ -46,6 +46,7 @@ A curated, community-driven collection of **free DevOps labs, challenges, and en
 * [Cloud is Free](https://cloudisfree.com/) – Learn to deploy real-world apps using only cloud Free Tiers
 * [The Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/) – Cloud learning through a resume project
 * [Learn to Cloud](https://learntocloud.guide/) – Understand the fundamentals of cloud computing
+* [Server Survival](https://pshenok.github.io/server-survival/) - is an interactive 3D simulation game where you play as a Cloud Architect.
 * [AWS Workshops](https://workshops.aws/) – Practice hands-on AWS labs and projects
 
 ---
@@ -105,7 +106,6 @@ A curated, community-driven collection of **free DevOps labs, challenges, and en
 ## 🌿 Git
 
 * [Learn Git Branching](https://learngitbranching.js.org/) – Interactive visual Git tutorial for mastering branching concepts
-* [Oh My Git!](https://ohmygit.org/) - visualizes the internal structures of Git repositories in realtime
 
 ---
 
@@ -127,10 +127,9 @@ If you find **DevOps — Learn by Doing** helpful, please consider sponsoring to
 
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-❤️-brightgreen?logo=github-sponsors&style=for-the-badge)](https://github.com/sponsors/dth99)
 ---
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=dth99.devops-learn-by-doing)
 
 
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=dth99/DevOps-Learn-By-Doing&type=Date)](https://www.star-history.com/#dth99/DevOps-Learn-By-Doing&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=deepakkumar-platform/DevOps-Learn-By-Doing&type=Date)](https://www.star-history.com/#deepakkumar-platform/DevOps-Learn-By-Doing&Date)
