@@ -46,6 +46,7 @@ A curated, community-driven collection of **free DevOps labs, challenges, and en
 * [Cloud is Free](https://cloudisfree.com/) – Learn to deploy real-world apps using only cloud Free Tiers
 * [The Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/) – Cloud learning through a resume project
 * [Learn to Cloud](https://learntocloud.guide/) – Understand the fundamentals of cloud computing
+* [Server Survival](https://pshenok.github.io/server-survival/) - is an interactive 3D simulation game where you play as a Cloud Architect.
 * [AWS Workshops](https://workshops.aws/) – Practice hands-on AWS labs and projects
 
 ---
