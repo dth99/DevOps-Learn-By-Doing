@@ -126,10 +126,9 @@ If you find **DevOps — Learn by Doing** helpful, please consider sponsoring to
 
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-❤️-brightgreen?logo=github-sponsors&style=for-the-badge)](https://github.com/sponsors/dth99)
 ---
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=dth99.devops-learn-by-doing)
 
 
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=dth99/DevOps-Learn-By-Doing&type=Date)](https://www.star-history.com/#dth99/DevOps-Learn-By-Doing&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=deepakkumar-platform/DevOps-Learn-By-Doing&type=Date)](https://www.star-history.com/#deepakkumar-platform/DevOps-Learn-By-Doing&Date)
